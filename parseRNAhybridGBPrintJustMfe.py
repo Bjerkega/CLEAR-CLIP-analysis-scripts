@@ -1,3 +1,5 @@
+#Originally by Kent Riemondy (Kriemo) and then I edited it to print out the binding energy (MFE) from RNAhybrid.
+
 #!/usr/bin/env python
 from __future__ import print_function
 import re
