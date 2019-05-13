@@ -1,3 +1,5 @@
+#This was written by Kent Riemondy (Kriemo) and then I edited it to flip the direction so 5' would be first I believe. This broke the default options and you have to use the -all option now.
+
 #!/usr/bin/env python
 from __future__ import print_function
 import re
